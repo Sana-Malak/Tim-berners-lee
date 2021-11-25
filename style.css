@@ -1,5 +1,5 @@
 body{
-    margin: 0;
+    text-align: center;
     padding-top: 800px;
 }
 .profile{
@@ -91,4 +91,15 @@ p{
     position: relative;
     text-align: center;
     vertical-align: middle;
+}
+html{
+scroll-behavior: smooth;
+    
+}
+a{
+    text-decoration: none;
+
+}
+.article:hover{
+  color: coral; 
 }
